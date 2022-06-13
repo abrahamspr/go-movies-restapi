@@ -1,6 +1,6 @@
 # GOLANG MOVIES CRUD-API
 ## This project was created using the Golang programming language and the Gorilla/Mux package
-![DIAGRAM](.images/movies.jpg)
+![DIAGRAM](./images/movies.jpg)
 ### Project Requirement:
 1. Golang [Install Golang](https://go.dev/dl/)
 2. Gorilla Mux `go get "github.com/gorilla/mux"`
